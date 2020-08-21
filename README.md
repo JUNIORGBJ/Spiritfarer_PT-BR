@@ -1,6 +1,3 @@
-# Spiritfarer_PT-BR
-Tradução Spiritfarer Nintendo Switch
-*:e-mail: Gilson.gbj@gmail.com*
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Spiritfarer_PT-BR)](https://github.com/JUNIORGBJ/Spiritfarer_PT-BR/releases/latest)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
@@ -12,9 +9,7 @@ Tradução Spiritfarer Nintendo Switch
 
 ## Sobre a Tradução.
 
-O objetivo do projeto é:
-
-_ "Traduzir 100% do jogo com a melhor qualidade possível" _
+_ "Port feito da tradução de PC PC" _
 
 ## Por quê?
 
