@@ -9,7 +9,7 @@
 
 ## Sobre a Tradução.
 
-_ "Port feito da tradução de PC PC" _
+_ "Port feito da tradução de PC" _
 
 ## Por quê?
 
