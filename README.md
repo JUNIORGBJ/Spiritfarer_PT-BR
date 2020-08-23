@@ -30,6 +30,8 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 - [Visual Studio Code](https://code.visualstudio.com)
 
+## :small_blue_diamond:Doações
 
+[![Picpay](https://i.ibb.co/cYcsCnZ/hhhh.png)](https://picpay.me/gilsongbj)
 
 Obrigado!:wave:
