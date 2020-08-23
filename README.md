@@ -22,9 +22,9 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## Instalação
 
-- **SXOS:** Colar a pasta ```SXOS``` dentro do MicroSD e iniciar o jogo normalmente.
+- **SXOS:** Colar a pasta ```0100BD400DC52000``` dentro do caminho ```Microsd\sxos\titles``` e iniciar o jogo normalmente.
 
-- **ATMOSPHERE:** Colar a pasta ```ATMOSPHERE``` dentro do MicroSD e iniciar o jogo normalmente.
+- **ATMOSPHERE:** Colar a pasta ```0100BD400DC52000``` dentro do caminho ```Microsd\atmosphere\contents``` e iniciar o jogo normalmente.
 
 ## Ferramentas Ultilizadas
 
